@@ -1,0 +1,6 @@
+Kod zawiera: 
+1️⃣ Spis treści procedur – ułatwia nawigację i pozwala na przechodzenie przez proces krok po kroku. 
+2️⃣ Tworzenie kopii zapasowej danych – zabezpiecza pierwotne dane przed modyfikacjami. 
+3️⃣ Usuwanie anulowanych zleceń – automatycznie eliminuje nieaktualne zamówienia z zestawienia. 
+4️⃣ Kolorystyczne oznaczanie zamówień – zamówienia są oznaczane kolorami według określonych kryteriów, co ułatwia ich późniejszą analizę. 
+5️⃣ Przeniesienie najważniejszych zamówień – zamówienia oznaczone na zielono są kopiowane do nowego arkusza, aby wyróżnić priorytety.
